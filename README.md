@@ -21,7 +21,7 @@
 1. **Download the Installer:** Get the latest version from [this link](https://github.com/Gabriel-sy/OmniSubs/releases/download/v2.0/OmniSubsInstaller.msi).
 2. **Run the Installer:** Execute the installer and follow the standard installation process.
 3. **Launch the Program:** Click on the desktop shortcut created after installation.
-4. **Log In:** Enter your OpenSubtitles.com credentials and click the “Login” button.
+4. **Log In:** Enter your OpenSubtitles.com username and password and click the “Login” button.
 5. **Configure Settings:** Adjust your preferences and click the “Save/Install” button. OmniSubs is now ready to use!
 
 ## How to Use
