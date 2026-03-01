@@ -24,6 +24,7 @@ namespace SubsDownloaderExtension
         private bool _isTranslateAndDownload = false;
         private string[] _languages = {
             "English",
+            "Hebrew",
             "Chinese",
             "Spanish",
             "Arabic",
